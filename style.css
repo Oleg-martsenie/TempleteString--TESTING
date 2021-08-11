@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:8% 0;
+}
+
+.demo {
+    background:linear-gradient(to top, #c43443, #c52525);
+    border: 1px solid transparent;
+    width: 500px;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 60px;
+    font-family: Helvetica;
+    letter-spacing:px;
+    color: #FFF;
+    font-size: 18px;
+    padding: 20px 10px;
+    height: 100px;
+}
